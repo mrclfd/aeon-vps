@@ -1,6 +1,9 @@
 from re import IGNORECASE, escape, search
 
 nsfw_keywords = [
+    "rusdi",
+]
+nsfw_keywords_ = [
     "porn",
     "onlyfans",
     "nsfw",
